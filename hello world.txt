@@ -1,0 +1,10 @@
+package main;
+
+/**
+ * Created by taivo on 1.10.2016.
+ */
+public class Esimene {
+    public static void main(String[] args) {
+        System.out.println("Vana hea Hello World!");
+    }
+}
